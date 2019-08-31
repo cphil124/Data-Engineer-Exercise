@@ -1,4 +1,4 @@
-# CatchCo Data Engineer Exercise
+# Data Engineer Exercise
  
 The repository is broken down between the Data Ingestion and Data Modeling Exercises
 
